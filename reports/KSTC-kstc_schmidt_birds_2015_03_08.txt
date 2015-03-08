@@ -1,0 +1,66 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:melospiza specificepithet:melodia year:1963" ; Times: 1
+	Query: "Numenius arquata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 326 download events in this period)
+Total number of records downloaded: 45 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 45
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "galbula" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 13
+Total number of records retrieved from searches: 19
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 82
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 16
+Total number of records retrieved from searches: 30
+Number of download events that retrieved data from the resource: 79
+Total number of records downloaded: 5802
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
