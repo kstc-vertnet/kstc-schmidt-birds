@@ -1,0 +1,53 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1052 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
