@@ -1,0 +1,50 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Tyrannidae class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; month &gt;= 7 month &lt;= 10" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 924 download events in this period)
+Total number of records downloaded: 56
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+
+
+End of report.
