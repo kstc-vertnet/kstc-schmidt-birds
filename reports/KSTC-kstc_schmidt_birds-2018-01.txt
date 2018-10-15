@@ -1,0 +1,58 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:dendrocygna class:Aves year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Charadrius alexandrinus AND (weight OR mass)" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "genus:Numenius stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Passerculus sandwichensis AND mass" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "specificepithet:fedoa genus:Limosa stateprovince:&#34;Kansas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1398 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+
+
+End of report.
