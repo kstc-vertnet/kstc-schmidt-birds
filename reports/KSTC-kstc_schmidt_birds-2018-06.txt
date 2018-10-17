@@ -1,0 +1,55 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1169 download events in this period)
+Total number of records downloaded: 60
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+
+
+End of report.
