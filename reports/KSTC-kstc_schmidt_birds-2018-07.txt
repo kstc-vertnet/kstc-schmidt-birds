@@ -1,0 +1,57 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "specificepithet:cyanocephalus genus:Euphagus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "americanus clarke county" ; Times: 1
+	Query: "Bluejay" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 977 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+
+
+End of report.
