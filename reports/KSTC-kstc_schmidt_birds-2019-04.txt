@@ -1,0 +1,55 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 310
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Slovenia ; Times: 1
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kstc aves" ; Times: 2
+	Query: "specificepithet:virens genus:Contopus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:355 institutioncode:KSTC" ; Times: 1
+	Query: "kstc aves schmidt" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "jack snipe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1263 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Kansas" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+
+
+End of report.
