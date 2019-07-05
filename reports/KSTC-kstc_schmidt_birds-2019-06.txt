@@ -1,0 +1,54 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Charadrius specificepithet:hiaticula" ; Times: 1
+	Query: "bluejay" ; Times: 1
+	Query: "genus:Vanellus specificepithet:vanellus" ; Times: 1
+	Query: "genus:Cygnus specificepithet:columbianus" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1182 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 2
+
+
+End of report.
