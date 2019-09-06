@@ -1,0 +1,60 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 82
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Finland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 12
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-30 ; Times: 13
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 11
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 13
+	Query: "Mycteria americana" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Calidris canutus" ; Times: 2
+	Query: "Vireo bellii" ; Times: 3
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1034 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+
+
+End of report.
