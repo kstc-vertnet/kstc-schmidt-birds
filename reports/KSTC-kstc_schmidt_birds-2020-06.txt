@@ -1,0 +1,69 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 132
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 46
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-03 ; Times: 46
+	Date: 2020-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Progne subis mass OR weight" ; Times: 2
+	Query: "Buteo lineatus mass OR weight" ; Times: 2
+	Query: "Sterna hirundo mass OR weight" ; Times: 2
+	Query: "Thalasseus maximus mass OR weight" ; Times: 2
+	Query: "Zenaida macroura mass OR weight" ; Times: 3
+	Query: "Strix varia mass OR weight" ; Times: 2
+	Query: "Branta canadensis mass OR weight" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Mycteria americana mass OR weight" ; Times: 2
+	Query: "Ardea alba mass OR weight" ; Times: 2
+	Query: "Charadrius melodus mass OR weight" ; Times: 2
+	Query: "Accipiter gentilis mass OR weight" ; Times: 2
+	Query: "Pelecanus erythrorhynchos mass OR weight" ; Times: 2
+	Query: "Larus argentatus mass OR weight" ; Times: 2
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 1
+	Query: "Accipiter cooperii mass OR weight" ; Times: 2
+	Query: "Falco sparverius mass OR weight" ; Times: 1
+	Query: "Hydroprogne caspia mass OR weight" ; Times: 2
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "Larus delawarensis mass OR weight" ; Times: 2
+	Query: "Haliaeetus leucocephalus mass OR weight" ; Times: 2
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 474 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-10 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
