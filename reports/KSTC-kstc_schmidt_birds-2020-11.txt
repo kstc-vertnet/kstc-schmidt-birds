@@ -1,0 +1,57 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus x" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 842 download events in this period)
+Total number of records downloaded: 118
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-03 ; Times: 4
+	Date: 2020-11-10 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "Lapland longspur" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "golden pheasant" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+
+
+End of report.
